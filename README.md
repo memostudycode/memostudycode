@@ -20,7 +20,7 @@ I am just an ordinary student. All of my technical growth comes from self-explor
 ## 🚀 Featured Projects
 
 - **KeyShield**: A lightweight secret detection engine for scanning API keys and credentials in code.
-- **KeyScout**: AI Agent for secret scanning, equipped with built-in Tritobol preprocessor to optimize token usage and reduce inference overhead.
+- **KeyScout(TBOS)**: AI Agent for secret scanning, equipped with built-in Tritobol preprocessor to optimize token usage and reduce inference overhead.
 - **Sudoku Game**: An interactive sudoku puzzle program.
   - Infinite puzzle generation algorithm with guaranteed unique solution for every board.
 - **EnglishWordsLearning**: A vocabulary memorization utility.
