@@ -5,6 +5,14 @@ I’m currently building my own LLM from scratch.
 
 ![CMU](https://img.shields.io/badge/CMU-FFD700?style=for-the-badge&logo=carnegiemellonuniversity&logoColor=white) / ![ODU](https://img.shields.io/badge/ODU-FFD700?style=for-the-badge&logo=olddominionuniversity&logoColor=white)
 
+## 🧩 Research Domains
+
+Cloud Computing | Embedded Systems | Cybersecurity | Trustworthy AI | LLM Fine-tuning & Training
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![LangGraph](https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logo=langchain&logoColor=white)
+
 ## ✨ About Me
 
 I study at Zhengzhou University of Light Industry, a university that is not highly ranked in China. Honestly, many of my peers spend their days without long-term goals, but that is not the path I choose. I have already mapped out my long-term roadmap and keep pushing forward, because I believe I am capable of making real impact — still an explorer chasing broader opportunities.
@@ -27,14 +35,6 @@ I am just an ordinary student. All of my technical growth comes from self-explor
   - Infinite puzzle generation algorithm with guaranteed unique solution for every board.
 - **EnglishWordsLearning**: A vocabulary memorization utility.
   - Covers vocabulary ranging from Chinese primary school to IELTS level.
-
-## 🧩 Research Domains
-
-Cloud Computing | Embedded Systems | Cybersecurity | Trustworthy AI | LLM Fine-tuning & Training
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![LangGraph](https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logo=langchain&logoColor=white)
 
 ## 🏆 Hackathons Schedule
 
