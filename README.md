@@ -3,6 +3,8 @@
 I'm **William Leong**, an undergraduate at Zhengzhou University of Light Industry, exploring Cloud Computing, Embedded Systems, Cybersecurity, Trustworthy AI & LLM fine-tuning and training.
 I’m currently building my own LLM from scratch.
 
+![CMU](https://img.shields.io/badge/CMU-FFD700?style=for-the-badge&logo=carnegiemellonuniversity&logoColor=white) / ![ODU](https://img.shields.io/badge/ODU-FFD700?style=for-the-badge&logo=olddominionuniversity&logoColor=white)
+
 ## ✨ About Me
 
 I study at Zhengzhou University of Light Industry, a university that is not highly ranked in China. Honestly, many of my peers spend their days without long-term goals, but that is not the path I choose. I have already mapped out my long-term roadmap and keep pushing forward, because I believe I am capable of making real impact — still an explorer chasing broader opportunities.
