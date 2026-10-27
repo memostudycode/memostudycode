@@ -47,7 +47,7 @@ High-quality project output is my top priority. Inspired by the space-themed cer
 Surely I will bring you a big pizza. So, buy me a wife if you want 😂 (just a joke, you know what I mean).
 Your support means a lot.
 
-> ***Any hope for a brighter future comes from the willing that future into being.***
+> ***Any hope for a brighter future comes from willing that future into being.***
 > 
 > ***Our cause, however righteous, pales in comparison to our effect.***
 
